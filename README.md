@@ -44,7 +44,7 @@ Data were sourced from Maven Analytics which was csv file. ETL was done in Power
    - The total routes covered (65) suggest a stable service offering with no major additions or reductions during the period.
 
   
-### 2. Customer Buying Behaviour
+### 2. Customer Buying Behaviour:
 
    <img src="https://github.com/user-attachments/assets/0881e564-4b70-4c74-9bdb-d0c81ec25210" alt="Customer Buying Behaiour" width="600" height= "400">
 
@@ -64,7 +64,7 @@ Data were sourced from Maven Analytics which was csv file. ETL was done in Power
    - **Journey Type:** There’s a near-even split between long-distance (54%) and short-distance (46%) travel, suggesting diverse use cases.
     
 
-### 3. Service Delivery Level
+### 3. Service Delivery Level:
 
    <img src="https://github.com/user-attachments/assets/9437224d-e11c-4ce5-a560-462b56f76f67" alt="Service Level Delivery" width="600" height="400">
 
